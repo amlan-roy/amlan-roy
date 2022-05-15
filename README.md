@@ -38,11 +38,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/amlan-roy">
   [![Amlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amlan-roy&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
