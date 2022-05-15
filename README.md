@@ -36,10 +36,6 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-[![Amlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amlan-roy&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/amlan-roy)
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
