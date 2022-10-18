@@ -5,8 +5,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software apps.\
-🎓 &nbsp;I'm currently pursuing Bachelor's of Engineering(Information Technology) from DY Patil College of Engineering Pune.\
-🌱 &nbsp;I'm on track for learning more about mobile development including Android and React Native.\
+🎓 &nbsp;I'm am a Software Engineer based out of Pune.\
+🌱 &nbsp;I like learning cool stuff including mobile app development (Native Android and React Native), Game Development, Automation and Web Development.\
 ✍️ &nbsp;In my free time, I like to play music and workout.\
 ✉️ &nbsp;You can shoot me an email at amlanroy2500@gmail.com! I'll try to respond as soon as I can.\
 
